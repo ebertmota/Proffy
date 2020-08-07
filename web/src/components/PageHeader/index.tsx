@@ -8,9 +8,14 @@ import { Container, Content } from './styles';
 
 interface PageHeaderProps {
   title: string;
+  description?: string;
 }
 
-const PageHeader: React.FC<PageHeaderProps> = ({ children, title }) => {
+const PageHeader: React.FC<PageHeaderProps> = ({
+  children,
+  title,
+  description,
+}) => {
   return (
     <Container>
       <div>
@@ -22,6 +27,7 @@ const PageHeader: React.FC<PageHeaderProps> = ({ children, title }) => {
 
       <Content>
         <strong>{title}</strong>
+        {description && <p>{description}</p>}
 
         {children}
       </Content>

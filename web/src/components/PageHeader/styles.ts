@@ -48,6 +48,15 @@ export const Content = styled.div`
     color: var(--color-title-in-primary);
   }
 
+  p {
+    max-width: 30rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    margin-top: 2.4rem;
+    color: var(--color-text-in-primary);
+    margin-bottom: 5.4rem;
+  }
+
   @media (min-width: 700px) {
     flex: 1;
     max-width: 740px;
