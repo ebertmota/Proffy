@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="Proffy" src="./web/src/assets/images/logo.svg" />
+  <img alt="Proffy" src="./web/src/assets/images/purple-logo.png" />
   <br> Next Level Week #2 </br>
 </h1>
 
@@ -20,7 +20,7 @@ Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Di
   
 Essa aplicação foi contruida durante a Next **Level Week #2**, projeto ministrado pela [Rocketseat](https://rocketseat.com.br/).
 
-## :rocket: Tecnologias Utilizadas
+## :bulb: Tecnologias Utilizadas
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Node.js](https://nodejs.org/en/)
@@ -28,7 +28,7 @@ Essa aplicação foi contruida durante a Next **Level Week #2**, projeto ministr
 -  [React Native](http://facebook.github.io/react-native/)
 -  [Expo](https://expo.io/)
 -  [Express](https://expressjs.com/)
--  [axios](https://github.com/axios/axios)
+-  [Knex](http://knexjs.org/)
 
 ## :rocket: Como rodar em minha maquina ?
 
