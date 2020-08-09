@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#pushpin-sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#bulb-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#como-executar">Como Executar</a>
+  <a href="#rocket-Como-Executar">Como Executar</a>
 </p>
 
 
