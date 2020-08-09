@@ -6,9 +6,9 @@
 
 
 <p align="center">
-  <a href="#pushpin-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#bulb-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#rocket-Como-rodar-em-minha-maquina">Como Executar</a>&nbsp;&nbsp;
+  <a href="#pushpin-sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#bulb-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#rocket-Como-rodar-em-minha-maquina">Como Executar</a>
 </p>
 
 
