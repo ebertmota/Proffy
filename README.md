@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#pushpin-sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#bulb-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#rocket-Como-Executar">Como Executar</a>
+  <a href="#rocket-Como-rodar-em-minha-maquina">Como Executar</a>
 </p>
 
 
@@ -31,7 +31,7 @@ Essa aplicação foi contruida durante a Next **Level Week #2**, projeto ministr
 -  [Knex](http://knexjs.org/)
 
 <a id="ancora2"></a>
-## :rocket: Como Executar
+## :rocket: Como rodar em minha maquina
 >
 
 ### **Pré-requisitos**
