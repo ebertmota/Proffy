@@ -30,9 +30,7 @@ Essa aplicação foi contruida durante a Next **Level Week #2**, projeto ministr
 -  [Express](https://expressjs.com/)
 -  [Knex](http://knexjs.org/)
 
-<a id="ancora2"></a>
 ## Como rodar em minha maquina :question:
->
 
 ### **Pré-requisitos**
 
