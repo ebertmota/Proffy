@@ -31,7 +31,7 @@ Essa aplicação foi contruida durante a Next **Level Week #2**, projeto ministr
 -  [Knex](http://knexjs.org/)
 
 <a id="ancora2"></a>
-## :rocket: Como rodar em minha maquina
+## :rocket: Como rodar em minha maquina ?
 >
 
 ### **Pré-requisitos**
